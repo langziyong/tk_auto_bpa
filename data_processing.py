@@ -86,8 +86,8 @@ def update(f,u,k,v):
 if __name__ == '__main__':
     #search('山东')
     userdata = ['1701070235','password','李xx','必须是详细准确的系名称','178xxxxxxxx','山东省菏泽市曹县','1','3','xx区','耕文路419号','154xxxxxxx@qq.com']
-   ''' 
-   i = 0
+    ''' 
+    i = 0
     while i <= 999:
         add_user(userdata)
         i = i + 1
